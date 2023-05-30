@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654081510 source:d:\codeblocks projects\complexnumbers\main.cpp
+	"complex.h"
+
+1654182554 source:d:\codeblocks projects\complexnumbers\src\complex.cpp
+	"complex.h"
+
+1654182551 d:\codeblocks projects\complexnumbers\include\complex.h
+	"stdlib.h"
+	<iostream>
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1654775622 source:d:\codeblocks projects\collegemanagmentsystem\main.cpp
+	<iostream>
+	"College.h"
+	"Assistant.h"
+	"Professor.h"
+
+1654775572 source:d:\codeblocks projects\collegemanagmentsystem\src\professor.cpp
+	"Professor.h"
+
+1654775572 d:\codeblocks projects\collegemanagmentsystem\include\professor.h
+	"Employee.h"
+
+1654775592 d:\codeblocks projects\collegemanagmentsystem\include\employee.h
+	<string>
+	<iostream>
+
+1654774950 source:d:\codeblocks projects\collegemanagmentsystem\src\employee.cpp
+	"Employee.h"
+
+1654774915 source:d:\codeblocks projects\collegemanagmentsystem\src\college.cpp
+	"College.h"
+	"Employee.h"
+
+1654770301 d:\codeblocks projects\collegemanagmentsystem\include\college.h
+
+1654775591 source:d:\codeblocks projects\collegemanagmentsystem\src\assistant.cpp
+	"Assistant.h"
+
+1654775592 d:\codeblocks projects\collegemanagmentsystem\include\assistant.h
+	"Employee.h"
+

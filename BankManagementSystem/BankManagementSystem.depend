@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1654595547 source:d:\codeblocks projects\bankmanagementsystem\src\bank.cpp
+	"Bank.h"
+	"Account.h"
+	<iostream>
+
+1654594651 d:\codeblocks projects\bankmanagementsystem\include\bank.h
+	<string>
+
+1654596412 source:d:\codeblocks projects\bankmanagementsystem\main.cpp
+	<iostream>
+	"Account.h"
+	"Bank.h"
+
+1654594183 d:\codeblocks projects\bankmanagementsystem\include\account.h
+	<string>
+	<iostream>
+
+1654596412 source:d:\codeblocks projects\bankmanagementsystem\src\account.cpp
+	"Account.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654595782 source:d:\codeblocks projects\rationalnum\src\rationalnum.cpp
+	"RationalNum.h"
+
+1654595782 d:\codeblocks projects\rationalnum\include\rationalnum.h
+
+1654439037 source:d:\codeblocks projects\rationalnum\main.cpp
+	<iostream>
+	"RationalNum.h"
+

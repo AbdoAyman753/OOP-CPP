@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654090166 source:d:\codeblocks projects\mymatrix\main.cpp
+	"Matrix.h"
+
+1654183143 source:d:\codeblocks projects\mymatrix\src\matrix.cpp
+	"Matrix.h"
+
+1654183076 d:\codeblocks projects\mymatrix\include\matrix.h
+	<iostream>
+

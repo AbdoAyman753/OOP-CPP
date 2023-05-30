@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654186538 source:d:\codeblocks projects\lineeq\main.cpp
+	"Line.h"
+
+1654094491 source:d:\codeblocks projects\lineeq\src\point.cpp
+	"Point.h"
+
+1654094390 d:\codeblocks projects\lineeq\include\point.h
+
+1654186740 source:d:\codeblocks projects\lineeq\src\line.cpp
+	"Line.h"
+
+1654186503 d:\codeblocks projects\lineeq\include\line.h
+	<iostream>
+	"Point.h"
+

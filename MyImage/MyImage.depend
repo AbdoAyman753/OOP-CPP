@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1654723311 source:d:\codeblocks projects\myimage\main.cpp
+	<iostream>
+	"Pixel.h"
+	"Image.h"
+
+1654721131 source:d:\codeblocks projects\myimage\src\pixel.cpp
+	"Pixel.h"
+
+1654717202 d:\codeblocks projects\myimage\include\pixel.h
+	<iostream>
+
+1654722821 source:d:\codeblocks projects\myimage\src\image.cpp
+	"Image.h"
+	"Pixel.h"
+	<iostream>
+
+1654716914 d:\codeblocks projects\myimage\include\image.h
+	<iostream>
+

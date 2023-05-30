@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1655578482 source:d:\codeblocks projects\miniproject\main.cpp
+	<iostream>
+	"EventManager.h"
+	"EventGenerator.h"
+
+1655488375 source:d:\codeblocks projects\miniproject\src\eventsbase.cpp
+	"EventsBase.h"
+
+1655563684 d:\codeblocks projects\miniproject\include\eventsbase.h
+
+1655563783 source:d:\codeblocks projects\miniproject\src\systemeventsbase.cpp
+	"SystemEventsBase.h"
+	<iostream>
+
+1655575436 d:\codeblocks projects\miniproject\include\systemeventsbase.h
+	"EventsBase.h"
+
+1655563769 source:d:\codeblocks projects\miniproject\src\hardwaresendpacket.cpp
+	"HardwareSendPacket.h"
+	<iostream>
+
+1655575472 d:\codeblocks projects\miniproject\include\hardwaresendpacket.h
+	"HardwareEventsBase.h"
+
+1655575430 d:\codeblocks projects\miniproject\include\hardwareeventsbase.h
+	"EventsBase.h"
+
+1655563763 source:d:\codeblocks projects\miniproject\src\hardwareeventsbase.cpp
+	"HardwareEventsBase.h"
+	<iostream>
+
+1655563225 source:d:\codeblocks projects\miniproject\src\hardwarereceivepacket.cpp
+	"HardwareReceivePacket.h"
+	<iostream>
+
+1655575486 d:\codeblocks projects\miniproject\include\hardwarereceivepacket.h
+	"HardwareEventsBase.h"
+
+1655563407 source:d:\codeblocks projects\miniproject\src\systemsleep.cpp
+	"SystemSleep.h"
+	<iostream>
+
+1655575509 d:\codeblocks projects\miniproject\include\systemsleep.h
+	"SystemEventsBase.h"
+
+1655563407 source:d:\codeblocks projects\miniproject\src\systemwakeup.cpp
+	"SystemWakeup.h"
+	<iostream>
+
+1655575509 d:\codeblocks projects\miniproject\include\systemwakeup.h
+	"SystemEventsBase.h"
+
+1655563407 source:d:\codeblocks projects\miniproject\src\systemshutdown.cpp
+	"SystemShutdown.h"
+	<iostream>
+
+1655575509 d:\codeblocks projects\miniproject\include\systemshutdown.h
+	"SystemEventsBase.h"
+
+1655577571 source:d:\codeblocks projects\miniproject\src\eventgenerator.cpp
+	<Windows.h>
+	<unistd.h>
+	"EventGenerator.h"
+	"HardwareSendPacket.h"
+	"HardwareReceivePacket.h"
+	"SystemShutdown.h"
+	"SystemSleep.h"
+	"SystemWakeup.h"
+	<cstdlib>
+
+1655576109 d:\codeblocks projects\miniproject\include\eventgenerator.h
+	"EventsBase.h"
+	"EventManager.h"
+	<thread>
+
+1655580606 source:d:\codeblocks projects\miniproject\src\eventmanager.cpp
+	"EventManager.h"
+
+1655580416 d:\codeblocks projects\miniproject\include\eventmanager.h
+	"HardwareEventsBase.h"
+	"SystemEventsBase.h"
+	"Comparator.h"
+	<iostream>
+	<queue>
+	<thread>
+
+1655578111 source:d:\codeblocks projects\miniproject\src\comparator.cpp
+	"Comparator.h"
+
+1655557861 d:\codeblocks projects\miniproject\include\comparator.h
+	"EventsBase.h"
+
